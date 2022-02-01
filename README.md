@@ -1,8 +1,8 @@
 
-#### :blush: TagarELA
+#### :blush: #TagarELA
  <img align="center" alt="site_apple" height="491" width="1080" src="https://github.com/juniatech/hackathona-projeto-tagarela/blob/main/img/01_Desing_Produto_Final.png" />
  
-#### :blush: Qual é a viabilidade da solução? 
+#### 🔷 Qual é a viabilidade da solução? 
 
    Tendo em vista que a população da cidade de São Paulo é representada em mais da metade por
    mulheres, uma solução que mitiga os problemas da saúde menstrual, que é recorrente praticamente
@@ -20,7 +20,7 @@
    em formas de combate, o banheiro público então se torna um canal gratuito de tráfego, uma porta de
    entrada segura e acessível.
 
-#### :blush: Há soluções similares no mercado? Quais?
+#### 🔷 Há soluções similares no mercado? Quais?
 
    (A equipe conhece alguma solução parecida? Qual? Utilizou como referência?)
    Não identificamos iniciativas que visam promover a prevenção dos casos de abuso e assédio dando
@@ -39,7 +39,7 @@
    estadual no dia 14/09/2021 aprovado pelo senado com o tema Programa de Proteção e Promoção da
    Saúde Menstrual (PL 4968/2019).
 
-#### :blush: Quais são os seus diferenciais?
+#### 🔷 Quais são os seus diferenciais?
 
    O impacto do projeto além de beneficiar milhares de mulheres, afeta diretamente a classe mais
    vulnerável, fazendo com que a caixinha solidária de absorventes se alto mantenha, gerando tráfego
@@ -60,7 +60,7 @@
    vivenciadas de forma sistematizadas em locais como em Ann Arbor, no estado americano de
    Michigan, que passou a distribuir gratuitamente absorventes em banheiros públicos.
 
-#### :blush:Quais os possíveis impactos?
+#### 🔷 Quais os possíveis impactos?
 
    Os casos de violência contra a mulher aumentaram muito depois da pandemia, dados apontavam
    que apenas 10% das mulheres que sofreram violências denunciaram, o aumento das denúncias dos
