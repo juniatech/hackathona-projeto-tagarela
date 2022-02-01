@@ -79,5 +79,5 @@
    recorrente mensalmente, terá um impacto positivo nas mulheres da cidade de São Paulo que
    representam um pouco mais da metade da população da cidade.
    
-   <img align="center" alt="Design-Site-Desktop" height="491" width="1080" src="https://github.com/juniatech/hackathona-projeto-tagarela/blob/main/img/Site-%20Vers%C3%A3o%20Desktop.png" />
+   <img align="center" alt="Design-Site-Desktop" height="491" width="880" src="https://github.com/juniatech/hackathona-projeto-tagarela/blob/main/img/Site-%20Vers%C3%A3o%20Desktop.png" />
  
