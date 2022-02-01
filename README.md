@@ -22,7 +22,6 @@
 
 #### 🔷 Há soluções similares no mercado? Quais?
 
-   (A equipe conhece alguma solução parecida? Qual? Utilizou como referência?)
    Não identificamos iniciativas que visam promover a prevenção dos casos de abuso e assédio dando
    suporte psicológico às vítimas da forma que estamos propondo aqui, educando sobre o tema da
    violência contra a mulher mostrando as diversas formas que essa violência se manifesta nas
